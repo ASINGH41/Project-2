@@ -1,2 +1,1 @@
-Projecr
-Final Project
+Project
